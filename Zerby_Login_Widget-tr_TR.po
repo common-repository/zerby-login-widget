@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-12 23:49+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ytgn <ytgn@hotmail.com>\n"
+"Language-Team: wordpress-tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:41
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:42
+msgid "Password"
+msgstr "Şifre"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:43
+msgid "Remember Me"
+msgstr "Beni Unutma"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:44
+msgid "Log In"
+msgstr "Giriş"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:45
+msgid "Lost your password ?"
+msgstr "Şifremi Unuttum"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:46
+msgid "Site admin"
+msgstr "Yönetim"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:47
+msgid "Log out"
+msgstr "Çıkış"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:48
+msgid "Register"
+msgstr "Kayıt"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:117
+msgid "Title"
+msgstr "Başlık"
+

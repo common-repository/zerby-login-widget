@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zerby_Login_Widget 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-12 23:49+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yaroslav.Ch <yaroslav.ch@gmail.com>\n"
+"Language-Team: Yaroslav.CH <yaroslav.ch@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:41
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:42
+msgid "Password"
+msgstr "Пароль"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:43
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:44
+msgid "Log In"
+msgstr "Вход"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:45
+msgid "Lost your password ?"
+msgstr "Забыли пароль?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:46
+msgid "Site admin"
+msgstr "Администрирование"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:47
+msgid "Log out"
+msgstr "Выход"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:48
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\zerby-login-widget/Zerby_Widget_Login.php:117
+msgid "Title"
+msgstr "Авторизация"
+
